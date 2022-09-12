@@ -1,0 +1,1 @@
+C:\Users\darre\OneDrive\Desktop\rust\sea_orm\migration\target\debug\libmigration.rlib: C:\Users\darre\OneDrive\Desktop\rust\sea_orm\migration\src\lib.rs C:\Users\darre\OneDrive\Desktop\rust\sea_orm\migration\src\m20220101_000001_create_bakery_table.rs C:\Users\darre\OneDrive\Desktop\rust\sea_orm\migration\src\m20220101_000002_create_baker_table.rs
